@@ -1,0 +1,2 @@
+tcdump
+Para realizar un dump traffic, ejecuta: tcpdump -i <interfaz>
